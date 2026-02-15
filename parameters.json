@@ -1,0 +1,9 @@
+{
+  "oracle": {
+    "user": "db_admin",
+    "password": "db_admin",
+    "host": "localhost",
+    "port": 1521,
+    "service_name": "orcl"
+  }
+}
